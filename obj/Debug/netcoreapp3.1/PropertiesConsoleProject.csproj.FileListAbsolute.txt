@@ -1,0 +1,14 @@
+C:\xampp\htdocs\C#\PropertiesConsoleProject\bin\Debug\netcoreapp3.1\PropertiesConsoleProject.exe
+C:\xampp\htdocs\C#\PropertiesConsoleProject\bin\Debug\netcoreapp3.1\PropertiesConsoleProject.deps.json
+C:\xampp\htdocs\C#\PropertiesConsoleProject\bin\Debug\netcoreapp3.1\PropertiesConsoleProject.runtimeconfig.json
+C:\xampp\htdocs\C#\PropertiesConsoleProject\bin\Debug\netcoreapp3.1\PropertiesConsoleProject.runtimeconfig.dev.json
+C:\xampp\htdocs\C#\PropertiesConsoleProject\bin\Debug\netcoreapp3.1\PropertiesConsoleProject.dll
+C:\xampp\htdocs\C#\PropertiesConsoleProject\bin\Debug\netcoreapp3.1\PropertiesConsoleProject.pdb
+C:\xampp\htdocs\C#\PropertiesConsoleProject\obj\Debug\netcoreapp3.1\PropertiesConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\PropertiesConsoleProject\obj\Debug\netcoreapp3.1\PropertiesConsoleProject.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\PropertiesConsoleProject\obj\Debug\netcoreapp3.1\PropertiesConsoleProject.AssemblyInfo.cs
+C:\xampp\htdocs\C#\PropertiesConsoleProject\obj\Debug\netcoreapp3.1\PropertiesConsoleProject.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\PropertiesConsoleProject\obj\Debug\netcoreapp3.1\PropertiesConsoleProject.dll
+C:\xampp\htdocs\C#\PropertiesConsoleProject\obj\Debug\netcoreapp3.1\PropertiesConsoleProject.pdb
+C:\xampp\htdocs\C#\PropertiesConsoleProject\obj\Debug\netcoreapp3.1\PropertiesConsoleProject.genruntimeconfig.cache
+C:\xampp\htdocs\C#\PropertiesConsoleProject\obj\Debug\netcoreapp3.1\PropertiesConsoleProject.csproj.AssemblyReference.cache
